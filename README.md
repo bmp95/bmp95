@@ -14,6 +14,9 @@
   <a href="https://www.linkedin.com/in/bernabemunozpenas/">
     <img src="https://img.shields.io/badge/LinkedIn-Bernab%C3%A9%20Mu%C3%B1oz%20Pe%C3%B1as-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <a href="https://impulsoia.io">
+    <img src="https://img.shields.io/badge/impulsoia.io-Consultor%C3%ADa%20IA-06D6F5?style=for-the-badge&logo=rocket&logoColor=white" alt="impulsoia.io">
+  </a>
   <img src="https://img.shields.io/badge/Ja%C3%A9n,%20Spain-Remote%20friendly-3DDC84?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
 </p>
 
@@ -21,26 +24,36 @@
 
 ### 🧭 About
 
-Mechanical engineer turned **Senior Project Manager**, with 6+ years running projects in the
-automotive and aerospace industries — environments where a delay has a cost attached and
-nobody accepts "it's almost ready" as a status report.
+🔧 Mechanical engineer turned **Senior Project Manager**, with 6+ years running projects in
+the automotive and aerospace industries — environments where a delay has a price tag attached
+and nobody accepts *"it's almost ready"* as a status report.
 
-Today my focus is **generative AI**: not as a buzzword in a slide deck, but as something I
-implement inside businesses that already work, and prototype myself when I need to
-understand whether an idea holds up. The repos below are that second part.
+🤖 Today my focus is **generative AI**: not as a buzzword on slide 14, but as something I
+implement inside businesses that already work — and prototype myself when I need to find out
+whether an idea actually holds up. The repos below are that second part.
+
+⚡ I also run **[Impulso IA](https://impulsoia.io)**, where I install AI inside small
+businesses and leave it running after I'm gone.
+
+> 😄 *Probably the only PM who answers "let me prototype it" instead of "let's look at it on Monday."*
 
 <details>
 <summary><strong>🇪🇸 En español</strong></summary>
 
 <br>
 
-Ingeniero mecánico reconvertido en **Jefe de Proyectos Senior**, con más de 6 años dirigiendo
-proyectos en automoción y aeroespacial — entornos donde un retraso tiene un coste asociado y
-donde nadie acepta "está casi listo" como informe de estado.
+🔧 Ingeniero mecánico reconvertido en **Jefe de Proyectos Senior**, con más de 6 años
+dirigiendo proyectos en automoción y aeroespacial — entornos donde un retraso lleva un coste
+pegado y donde nadie acepta *"está casi listo"* como informe de estado.
 
-Hoy mi foco es la **IA generativa**: no como palabra de moda en una presentación, sino como
-algo que implanto dentro de negocios que ya funcionan, y que prototipo yo mismo cuando
-necesito comprobar si una idea se sostiene. Los repos de abajo son esa segunda parte.
+🤖 Hoy mi foco es la **IA generativa**: no como palabra de moda en la diapositiva 14, sino
+como algo que implanto dentro de negocios que ya funcionan, y que prototipo yo mismo cuando
+necesito comprobar si una idea se sostiene de verdad. Los repos de abajo son esa segunda parte.
+
+⚡ Además llevo **[Impulso IA](https://impulsoia.io)**, donde instalo IA en pequeños negocios
+y la dejo funcionando sola cuando me voy.
+
+> 😄 *Probablemente el único jefe de proyectos que contesta "déjame que lo prototipe" en vez de "lo vemos el lunes".*
 
 </details>
 
@@ -104,7 +117,7 @@ cero cookies, sin backend.*
 |---|---|
 | 🏅 **PSM I** | Professional Scrum Master I |
 | ☁️ **AZ-900** | Microsoft Azure Fundamentals |
-| 🤖 **AI-900** | Microsoft Azure AI Fundamentals |
+| 🤖 **AI-901** | Microsoft Azure AI Fundamentals |
 | 🎓 **MSc** | Project Management *(in progress)* · Innovation & Decision Making |
 | ⚙️ **BEng** | Mechanical Engineering — Universidad de Jaén |
 
@@ -113,5 +126,10 @@ cero cookies, sin backend.*
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bernabemunozpenas/"><strong>Let's talk →</strong></a>
+  <a href="https://www.linkedin.com/in/bernabemunozpenas/"><strong>💬 Let's talk · Hablemos →</strong></a>
+</p>
+
+<p align="center">
+  <sub>😅 <em>Yes, I built an app to stop me checking my phone. I tested it on my phone.</em><br>
+  <em>Sí, construí una app para dejar de mirar el móvil. La probé mirando el móvil.</em></sub>
 </p>
