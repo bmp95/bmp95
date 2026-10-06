@@ -90,6 +90,23 @@ cero cookies, sin backend.*
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+#### 🪤 [mousetrap](https://github.com/bmp95/mousetrap) (mouse finder)
+
+A trap for the pointer that keeps escaping across screens: **hold both mouse buttons for 3
+seconds** and it shows up in the centre of the screen you choose — a single 17 KB Windows exe,
+no installer, no admin rights.
+
+*La ratonera para el puntero que se escapa entre pantallas: mantén los dos botones del ratón 3
+segundos y aparece en el centro de la pantalla que elijas. Un solo exe de 17 KB para Windows,
+sin instalador ni permisos de administrador.*
+
+`C#` `WinForms` `Win32 API`
+
+</td>
+</tr>
 </table>
 
 ---
